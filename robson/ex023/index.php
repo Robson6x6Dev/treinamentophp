@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-// programa para exbir "APROVADO" caso as nota seja maio ou igual 7 e "REPROVADO" caso contrario.
+// programa para exibir "APROVADO" caso as nota seja maio ou igual 7 e "REPROVADO" caso contrario.
 
 //variavel para nota.
 $nota = 6;
